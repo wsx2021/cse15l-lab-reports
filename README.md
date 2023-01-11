@@ -1,5 +1,13 @@
 # CSE15l Lab Reports
 ### Shixuan Wu
+
+<br/><br/>
+## Installing VScode
+---
+## Remotely Connecting
+![Image](images/image.png)
+---
+## Trying Some Commands
 ---
 [Link](https://github.com/wsx2021)
 > Blockquote
