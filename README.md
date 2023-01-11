@@ -1,15 +1,8 @@
-# CSE15l Lab Reports
+# CSE15L Lab Reports
 ### Shixuan Wu
 
 <br/><br/>
-## Installing VScode
----
-## Remotely Connecting
-![Image](images/image.png)
----
-## Trying Some Commands
----
-[Link](https://github.com/wsx2021)
+## Example Markdown
 > Blockquote
 * List 
 * List 
