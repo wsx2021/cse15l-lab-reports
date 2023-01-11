@@ -26,3 +26,5 @@
 &nbsp;
 #### Run `cd` and this show all files in the folder. I use `touch` to create a new file in teh public directory , but fails. 
 ![Image](images/week1/command3.jpg)
+&nbsp;
+#### After this, we can safely logout by using ctrl+D. 
