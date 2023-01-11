@@ -18,11 +18,11 @@
 ---
 ## Trying Some Commands
 
-#### I run `ls -l`
+#### Run `ls -l`and l here means longer format. 
 ![Image](images/week1/command1.jpg)
 &nbsp;
-#### I run `ls -lat`
+#### Run `ls -lat`and this show all hiden files in the time order. 
 ![Image](images/week1/command2.jpg)
 &nbsp;
-#### I run `cd`
+#### Run `cd` and this show all files in the folder. I use `touch` to create a new file in teh public directory , but fails. 
 ![Image](images/week1/command3.jpg)
