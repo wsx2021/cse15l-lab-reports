@@ -192,7 +192,7 @@ public class ArrayExamples {
 
 &nbsp;
 &nbsp;
----
+
 ## Part 3
 #### From this lab, I learn how to write tests and debug our program. I learn how to write Assertion statement for various data types. The Junit tests are useful in debuging our class and methods. 
 
