@@ -28,7 +28,7 @@
 &nbsp;
 ---
 ## Part 2
- #### I choose to illustrate this using the example of Arrary Methods:
+#### I choose to illustrate this using the example of Arrary Methods:
 
 ### A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
 ```java
