@@ -15,13 +15,13 @@
 ![Image](/week3/part1_how.jpg)
 
 - Which methods in your code are called?
-   ####  I called the method Handle method of the ServerHttpHandler class in Server file and handleRequest in the StringServer file. 
+####  I called the method Handle method of the ServerHttpHandler class in Server file and handleRequest in the StringServer file. 
 &nbsp;
 - What are the relevant arguments to those methods, and the values of any relevant fields of the class?
 ####  The relevant argument for the Handle is the URLhandler in the ServerHttpHandler class. As for the handleRequest method, the URL is essential to extract the information. 
 &nbsp;
 - How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
-    ####  The values of the URL  chanegs during the process. It changes from http://localhost:4001/add-message?s=Hello to http://localhost:4001/add-message?s=How%20are%20you. Moreover, The values of the stringList I defined to store the values extracted from the URL changed, as we input more string to our website. It will append new string as we give it more. 
+####  The values of the URL  chanegs during the process. It changes from http://localhost:4001/add-message?s=Hello to http://localhost:4001/add-message?s=How%20are%20you. Moreover, The values of the stringList I defined to store the values extracted from the URL changed, as we input more string to our website. It will append new string as we give it more. 
 
 
 &nbsp;
