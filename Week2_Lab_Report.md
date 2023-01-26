@@ -26,7 +26,7 @@
 
 &nbsp;
 &nbsp;
----
+
 ## Part 2
 #### I choose to illustrate this using the example of Arrary Methods:
 
