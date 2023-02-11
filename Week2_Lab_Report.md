@@ -5,6 +5,8 @@
 ## Part 1
 ### Here is the link for my code:
 [Server.java](/week3/Server.java)
+
+#### This is markdown for java.  
 ```java
 // A simple web server using Java's built-in HttpServer
 
@@ -67,6 +69,7 @@ public class Server {
 
 [StringServer.java](/week3/StringServer.java)
 
+#### This is markdown for java.  
 ```java 
 import java.io.IOException;
 import java.net.URI;
@@ -157,7 +160,7 @@ class StringServer {
 #### I choose to illustrate this using the example of Arrary Methods:
 
 ### A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
-
+#### This is markdown for java.  
 ```java
 import static org.junit.Assert.*;
 import org.junit.*;
@@ -190,6 +193,7 @@ public class ArrayTests {
 
 &nbsp;
 ### An input that doesn’t induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
+#### This is markdown for java.  
 ```java
 import static org.junit.Assert.*;
 import org.junit.*;
@@ -232,6 +236,7 @@ public class ArrayTests {
 #### For the method averageWithoutLowest, I noticed that it did not consider when there are mutiple lowest values. Therefore, I just sum all values, subtract the lowest and then divide by the length of array -1. 
 
 ### Before 
+#### This is markdown for java.  
 ```java
 public class ArrayExamples {
 
@@ -273,6 +278,7 @@ public class ArrayExamples {
 ```
 ---
 ### After
+#### This is markdown for java.  
 ```java
 import java.util.Arrays;
 public class ArrayExamples {
