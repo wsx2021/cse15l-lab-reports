@@ -6,6 +6,7 @@
 
 #### `less`: a command-line utility used to view the contents of a file or the output of another command one page at a time. It's similar to the more command, but has many more features and is generally considered a better tool for viewing large or complex files.
 #### 1. `-E` or --quit-on-empty-file - Quits less immediately if the input file is empty or if there is nothing to display.
+#### Here are the examples, it shows texts as it is not empty. 
 ```
 less -E non-fiction/OUP/Castro/chA.txt
 ```
