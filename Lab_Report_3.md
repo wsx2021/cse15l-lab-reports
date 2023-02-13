@@ -11,6 +11,11 @@ less -E non-fiction/OUP/Castro/chA.txt
 ```
 ![img](/images/lab3/less_e.png)
 
+```
+less -E non-fiction/OUP/Castro/chC.txt
+```
+![img](/images/lab3/less_e2.png)
+
 
 &nbsp;
 #### 2. `-N` or --line-number - Displays line numbers in the output. I can see teh line number at the left side. 
@@ -18,6 +23,11 @@ less -E non-fiction/OUP/Castro/chA.txt
 less -N non-fiction/OUP/Castro/chA.txt
 ```
 ![img](/images/lab3/less_n.png)
+```
+less -N non-fiction/OUP/Castro/chC.txt
+```
+![img](/images/lab3/less_n2.png)
+
 
 
 &nbsp;
@@ -26,12 +36,23 @@ less -N non-fiction/OUP/Castro/chA.txt
 less +42 -N  non-fiction/OUP/Castro/chA.txt
 ```
 ![img](/images/lab3/less_num.png)
+
+#### It directly guide me to the line 18 and after. 
+```
+less +18 -N  non-fiction/OUP/Castro/chc.txt
+```
+![img](/images/lab3/less_num2.png)
 &nbsp;
 #### 4. `-M` or --long-prompt - Shows more detailed prompt with the file name and current line number. It shows the file name, line number, and what percentage the pointer at for the whole file. 
 ```
 less -M  non-fiction/OUP/Castro/chA.txt
 ```
 ![img](/images/lab3/less_m.png)
+#### Like here, I can see it shows line 1-6 out of 54 lines, and it reaches 4%. 
+```
+less -M  non-fiction/OUP/Castro/chC.txt
+```
+![img](/images/lab3/less_m2.png)
 &nbsp;
 #### 5. `-S` or --chop-long-lines - Truncates lines that are too long to fit on the screen. The long lines only show the first part with >
 ```
