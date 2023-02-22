@@ -25,7 +25,9 @@ ssh cs15lwi23axe@ieng6.ucsd.edu
 ```
 git clone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
-<enter>
+
+####  and then <enter>
+&nbsp;
 
 ### 6. Run the tests, demonstrating that they fail
 #### I use reverse search Ctrl+R and searh *junit* to find the line I typed before and when I saw 
