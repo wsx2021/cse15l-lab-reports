@@ -25,16 +25,19 @@ ssh cs15lwi23axe@ieng6.ucsd.edu
 ```
 git clone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
+<enter>
+
 ### 6. Run the tests, demonstrating that they fail
 #### I use reverse search Ctrl+R and searh *junit* to find the line I typed before and when I saw 
 ```
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 ```
-#### and then enter. I do the same to find the line 
+#### and then <enter>. I do the same to find the line 
 ```
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExmaples
 ```
-####  and then enter.
+
+####  and then <enter>
 &nbsp;
 ###
 ### 7. Edit the code file to fix the failing test
@@ -49,12 +52,17 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 ```
 git add .
 ```
+<enter>
+
 #### and 
 ```
 git commit -m "update"
 ```
+<enter>
+
 #### and push the chanegs
 ```
 git push
 ```
+<enter>
 
