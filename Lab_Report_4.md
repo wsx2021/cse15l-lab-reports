@@ -19,6 +19,7 @@
 ```
 ssh cs15lwi23axe@ieng6.ucsd.edu
 ```
+####  and then `<enter>`
 &nbsp;
 ### 5. Clone your fork of the repository from your Github account
 #### I just type
@@ -26,7 +27,7 @@ ssh cs15lwi23axe@ieng6.ucsd.edu
 git clone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
 
-####  and then <enter>
+####  and then `<enter>`
 &nbsp;
 
 ### 6. Run the tests, demonstrating that they fail
@@ -34,37 +35,39 @@ git clone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 ```
-#### and then <enter>. I do the same to find the line 
+#### and then `<enter>`. I do the same to find the line 
 ```
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExmaples
 ```
 
-####  and then <enter>
+####  and then `<enter>`
 &nbsp;
 
 ### 7. Edit the code file to fix the failing test
-#### I type nano L and then tab it will autofill the filename for me. I can just add java to the end of it. 
+#### I type nano L and then `<tab>` it will autofill the filename for me. I can just add java to the end of it. 
 #### After nano, I just do Ctrl+shift+- and then enter 43 to go to the 43 line. I can directly change the index1 to index2.   
 &nbsp;
 ### 8. Run the tests, demonstrating that they now succeed
-#### I do <up><up><up><enter> and <up><up><up><enter> to rerun the junit commands. This command was 3 up in myhistory, therefore I use <up> and ran it in the same way. It will show me test succeeded. 
+#### I do `<up><up><up><enter>` and `<up><up><up><enter>` to rerun the junit commands. This command was 3 up in myhistory, therefore I use <up> and ran it in the same way. It will show me test succeeded. 
 &nbsp;
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 ####  I will do 
 ```
 git add .
 ```
-<enter>
+#### and then `<enter>`
 
-#### and 
+
+
 ```
 git commit -m "update"
 ```
-<enter>
+#### and then `<enter>`
 
-#### and push the chanegs
+#### and push the changes
 ```
 git push
 ```
-<enter>
+#### and then `<enter>`
+#### This is how I do it. 
 
