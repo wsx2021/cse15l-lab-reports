@@ -48,7 +48,7 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 #### After nano, I just do Ctrl+shift+- and then enter 43 to go to the 43 line. I can directly change the index1 to index2.   
 &nbsp;
 ### 8. Run the tests, demonstrating that they now succeed
-#### I do `<up><up><up><enter>` and `<up><up><up><enter>` to rerun the junit commands. This command was 3 up in myhistory, therefore I use <up> and ran it in the same way. It will show me test succeeded. 
+#### I do `<up><up><up><enter>` and `<up><up><up><enter>` to rerun the junit commands. This command was 3 up in myhistory, therefore I use `<up>` and ran it in the same way. It will show me test succeeded. 
 &nbsp;
 ### 9. Commit and push the resulting change to your Github account (you can pick any commit message!)
 ####  I will do 
