@@ -20,6 +20,7 @@
 ssh cs15lwi23axe@ieng6.ucsd.edu
 ```
 ####  and then `<enter>`
+#### The reason why I don't need to type in my password is because I generated SSH keys for ieng6 and copied it to my SSH keys on my local computer to the remote server, so that it can recognize my computer.
 &nbsp;
 ### 5. Clone your fork of the repository from your Github account
 #### I just type
