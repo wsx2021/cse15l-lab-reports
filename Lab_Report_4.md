@@ -45,7 +45,7 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 &nbsp;
 
 ### 7. Edit the code file to fix the failing test
-#### I type nano L and then `<tab>` it will autofill the filename for me. I can just add 'java' to the end of it. 
+#### I type nano L and then `<tab>` it will autofill the filename for me. I can just add `java` to the end of it. 
 #### After `nano`, I just do `Ctrl+shift+-` and then enter 43 to go to the 43 line. I can directly change the `index1` to `index2`.   
 &nbsp;
 ### 8. Run the tests, demonstrating that they now succeed
