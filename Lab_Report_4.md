@@ -32,7 +32,7 @@ git clone git@github.com:ucsd-cse15l-w23/lab7.git
 &nbsp;
 
 ### 6. Run the tests, demonstrating that they fail
-#### I use reverse search Ctrl+R and searh *junit* to find the line I typed before and when I saw 
+#### I use reverse search `Ctrl+R` and searh *junit* to find the line I typed before and when I saw 
 ```
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
 ```
