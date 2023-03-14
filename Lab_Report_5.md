@@ -53,5 +53,25 @@ then
 fi
 echo "Your Grade: PASS!"
 ```
+&nbsp;
+&nbsp;
 #### Here is screenshot When I test it on `list-methods-lab3`
 ![plot](/images/bash_1.png)
+&nbsp;
+&nbsp;
+#### Here is screenshot When I test it on `list-methods-corrected`
+![plot](/images/bash_correct.png)
+&nbsp;
+&nbsp;
+#### Here is screenshot When I test it on `list-methods-compile-error`
+![plot](/images/bash_error.png)
+&nbsp;
+&nbsp;
+#### Here is screenshot When I test it on `list-methods-nested`
+![plot](/images/bash_file.png)
+&nbsp;
+&nbsp;
+#### Here is screenshot When I test it on `list-methods-subtle`
+![plot](/images/bash_subtle.png)
+&nbsp;
+&nbsp;
