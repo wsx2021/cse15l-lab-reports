@@ -57,21 +57,27 @@ echo "Your Grade: PASS!"
 &nbsp;
 #### Here is screenshot When I test it on `list-methods-lab3`
 ![plot](/images/bash_1.png)
+#### It said partial pass, since one of test is failed.
 &nbsp;
 &nbsp;
 #### Here is screenshot When I test it on `list-methods-corrected`
 ![plot](/images/bash_correct.png)
+#### It said full pass, since all of test is passed.
 &nbsp;
 &nbsp;
 #### Here is screenshot When I test it on `list-methods-compile-error`
 ![plot](/images/bash_error.png)
+#### It said Not pass, and it also points out compling error.
 &nbsp;
 &nbsp;
 #### Here is screenshot When I test it on `list-methods-nested`
 ![plot](/images/bash_file.png)
+#### It said Not pass, and need the file ListExamples.  
 &nbsp;
 &nbsp;
 #### Here is screenshot When I test it on `list-methods-subtle`
 ![plot](/images/bash_subtle.png)
+#### It said partial pass, since one of test is failed.
+&nbsp;
 &nbsp;
 &nbsp;
